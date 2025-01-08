@@ -14,7 +14,9 @@
    b. python extract_answer.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json
    c. python calculate_score.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json --score_file scores_internVL2-1b-mini.json
 6. Result Files
-   After execution, two result files will be generated, for example:\n
-   • results/internVL2/output_internVL2-1b-mini.json\n
-   • results/internVL2/scores_InternVL2-1b-mini.json
+   After execution, two result files will be generated, for example:
+
+   results/internVL2/output_internVL2-1b-mini.json\n
+
+   results/internVL2/scores_InternVL2-1b-mini.json
 
