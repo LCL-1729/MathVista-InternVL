@@ -3,7 +3,7 @@
 """
 # File       : InternVL2.py
 # Time       : 2024/9/2 19:09
-# Author     : RK
+# Author     : Felix Qin
 # version    : python 3.8
 # Description: 
 """
