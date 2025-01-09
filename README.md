@@ -11,9 +11,9 @@
    The model file is located at models/InternVL2.py.
 5. Execution:
    
-   a. python generate_response.py --model internVL2 --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json
-   b. python extract_answer.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json
-   c. python calculate_score.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json --score_file scores_internVL2-1b-mini.json
+   a. python generate_response.py --model internVL2 --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json\
+   b. python extract_answer.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json\
+   c. python calculate_score.py --output_dir ../results/internVL2 --output_file output_internVL2-1b-mini.json --score_file scores_internVL2-1b-mini.json\
 7. Result Files
    After execution, two result files will be generated, for example:
 
